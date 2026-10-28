@@ -1,0 +1,16 @@
+# Android / Gradle
+android/Lab2DataStorage/.gradle/
+android/Lab2DataStorage/build/
+android/Lab2DataStorage/app/build/
+android/Lab2DataStorage/local.properties
+android/Lab2DataStorage/.idea/
+android/Lab2DataStorage/.kotlin/
+*.iml
+*.apk
+*.aab
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
